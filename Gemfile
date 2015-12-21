@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+ruby "2.0.0"
 
 gem "heroku_hatchet"
 gem "rspec-core"
